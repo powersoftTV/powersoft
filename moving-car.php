@@ -1,0 +1,1 @@
+<img src="<?php echo get_template_directory_uri().'/imgs/Moving-car.png'; ?>" alt="Caragago">
